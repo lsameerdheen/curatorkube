@@ -1,0 +1,2 @@
+# curatorkube
+kubernetes deployment
